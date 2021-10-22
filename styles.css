@@ -1,0 +1,66 @@
+/*this is the body part*/
+body {
+  background-image: url('m.jpg');
+  background-attachment: fixed;
+}
+h2{
+  color: #800000;
+  font-family: inter;
+  font-size: 50px;
+  text-align: center;
+}
+h6{
+  color: #800000;
+  font-family: oswald;
+  font-size: 20px;
+  text-align: center;
+}
+h5{
+    color: #800000;
+    font-family: birthstone;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+  color: #000000;
+  font-family: Scheherazade New;
+  font-size: 20px;
+  text-align: inherit;
+}
+/*this is the design of the navigation bar*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+/*to design the footer*/
+.footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: left;
+}
+a{
+  color = black;
+}
